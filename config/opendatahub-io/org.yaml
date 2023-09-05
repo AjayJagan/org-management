@@ -18,6 +18,7 @@ orgs:
     - uidoyen
     - abhijeet-dhumal
     - adelton
+    - ajaganat
     - akchinSTC
     - alexcreasy
     - amadhusu
@@ -143,6 +144,7 @@ orgs:
         members:
         - harshad16
         - VannTen
+        - ajaganat
         privacy: closed
         repos:
           odh-manifests: maintain
@@ -338,6 +340,8 @@ orgs:
         - LaVLaS
         - VaishnaviHire
         - zdtsw
+        members:
+        - ajaganat
         privacy: closed
         repos:
           opendatahub-operator: admin
